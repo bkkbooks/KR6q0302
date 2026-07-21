@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0302_000-X.yaml, hash: 'sha256:29b2fc401597cf3d6916e7fe3af221fcbfd4a7e70dbd5ccf9a86e76d32fcd848'}
+  - {seq: 0, filename: KR6q0302_000-X.yaml, hash: 'sha256:df3128fece13df8071fd8e2a41261664df5f9d5aa9381c38fce73fe01fd9116d'}
   - {seq: 1, filename: KR6q0302_001-X.yaml, hash: 'sha256:bf83bbac89d6fc174dde413236b74ebe86d7cdad1ac0aacd8149ccef28add438'}
   - {seq: 2, filename: KR6q0302_002-X.yaml, hash: 'sha256:e355ae17820f717f19cf6aa71a0c05f6b2ffb2566c351857be13bda1bafa311e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0302_000-X.markers.yaml, hash: 'sha256:a8bb7178599af4163e991835b44ab488c68b5b2ddf37cc0e49207ace53f8c988'}
+  - {seq: 0, role: markers, filename: assets/KR6q0302_000-X.markers.yaml, hash: 'sha256:3a877ede01d6402ef7121619bf6d7a74367a085b59b9281251bcb1479761964f'}
   - {seq: 1, role: markers, filename: assets/KR6q0302_001-X.markers.yaml, hash: 'sha256:477d2b2b21d6654ae49d75f4d8a5490135c1514175f56c35d8b4f0fa9ea06aca'}
   - {seq: 2, role: markers, filename: assets/KR6q0302_002-X.markers.yaml, hash: 'sha256:1fc48ad0c00df350451c896222f2548eef16b8ea67eda4b78096af0df5176255'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1368-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-2
     span:
-    - front
+    - body
     - 145
     - 145
   label: No. 1368-B
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-3
     span:
-    - front
+    - body
     - 325
     - 325
   label: 佛智禪師偃溪和尚語錄目次
@@ -1497,4 +1497,4 @@ table_of_contents:
   label: 化楞嚴會香燭(二)
   type: mulu
   level: 1
-hash: sha256:1104d423a51efc1d4b17fa03feffeee2314621b5186145158e335b182b727bdf
+hash: sha256:45ed9a3fc7a7f8ad06f069480c5ed64c841c315ebfc32c3b7ae2415efbac6397

@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0302_000.yaml, hash: 'sha256:f7e5cbc25cf5ae8a777084c795e9785eb1c508452a2c58d851bce377125cf47b'}
+  - {seq: 0, filename: KR6q0302_000.yaml, hash: 'sha256:3051bc51769d824168c637daea28a0f1f01d3e53d15e64b1ffba397a30ca8a3d'}
   - {seq: 1, filename: KR6q0302_001.yaml, hash: 'sha256:0d574bcc00a3585029eca7793df8cc1e1c29d46519c3820a9b6ec4927d16afb0'}
   - {seq: 2, filename: KR6q0302_002.yaml, hash: 'sha256:ded7311acd14ce5809fb1679c06a4377687f9ee85beb48f006ad56b7a4e520b9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0302_000.markers.yaml, hash: 'sha256:414ef7d8acd354973d84eeb883e75ff126bd64ee88600b6403cff811b42705e3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0302_000.markers.yaml, hash: 'sha256:19cec655c238dbbf2e85e926aa588f8e35edeefd5df081476939134902c57deb'}
   - {seq: 1, role: markers, filename: assets/KR6q0302_001.markers.yaml, hash: 'sha256:f3ce2e5b8b9e0c1cda5cfb2c7f838cc7c898564a9ab9ae62da235ae7f3a44978'}
   - {seq: 2, role: markers, filename: assets/KR6q0302_002.markers.yaml, hash: 'sha256:0e43374e7e4929b2a9d6d9ec21462d6689109869bebf440b2e1e96981e267f88'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1368-A
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-2
     span:
-    - front
+    - body
     - 145
     - 145
   label: No. 1368-B
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0302_X_000-mulu-3
     span:
-    - front
+    - body
     - 325
     - 325
   label: 佛智禪師偃溪和尚語錄目次
@@ -1499,7 +1499,7 @@ table_of_contents:
   label: 化楞嚴會香燭(二)
   type: mulu
   level: 1
-hash: sha256:c2c3fee0781f4a17772c645bff9eb2231662018c8b11b98ec9005f5b0d5f2ceb
+hash: sha256:64e10ce0629cec309fa80fe82f6e588b9ee1c333e7777773996fb16da74c14d0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
